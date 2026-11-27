@@ -1,6 +1,6 @@
-# Call Center Analytics and Workforce Planning
+# Call Center Management & Workforce Forecasting
 
-This project started with a **50,000-call dataset** and a workforce planning brief for **250 employees**. We needed to understand the operation, build useful dashboards, and turn the call pattern into a forecast, a staffing requirement and a working schedule.
+Call Center Management & Workforce Forecasting started with a **50,000-call dataset** and a workforce planning brief for **250 employees**. The dashboards help explain the operation, while the forecasts turn call patterns into staffing requirements and working schedules.
 
 The questions were practical: When do calls arrive? Where are customers being lost? How many people should be available in each half-hour? Can the existing team cover that demand after breaks and days off? And during the day, who should be live but is missing from the actual live list?
 
@@ -23,7 +23,7 @@ The result is two Power BI reports, six Excel workbooks and a written analysis. 
 
 - [Operational analysis on Power BI Service](https://app.powerbi.com/groups/me/reports/48fb7172-667d-4a14-9926-a75813a0aad6?experience=power-bi)
 - [Production target dashboard on Power BI Service](https://app.powerbi.com/groups/me/reports/808891c1-63b9-461c-91b1-0b723a01eb41?experience=power-bi)
-- [Download the complete project](https://github.com/Spooky911/call-center-analytics-workforce/releases/latest/download/Call_Center_Complete_Project.zip)
+- [Download the complete project](https://github.com/Spooky911/call-center-management-and-workforce-forecasting/releases/latest/download/Call_Center_Complete_Project.zip)
 - [Read the written analysis](Call%20Center%20Analysis.pdf)
 
 Power BI links require the appropriate account and access. Download **Call_Center_Complete_Project.zip** from the release assets to get the complete data and both PBIX files. GitHub's automatically generated **Source code** archives contain the repository files and do not include the large release attachment.
