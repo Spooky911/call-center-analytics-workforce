@@ -23,10 +23,10 @@ The result is two Power BI reports, six Excel workbooks and a written analysis. 
 
 - [Operational analysis on Power BI Service](https://app.powerbi.com/groups/me/reports/48fb7172-667d-4a14-9926-a75813a0aad6?experience=power-bi)
 - [Production target dashboard on Power BI Service](https://app.powerbi.com/groups/me/reports/808891c1-63b9-461c-91b1-0b723a01eb41?experience=power-bi)
-- [Download the complete project](https://github.com/Spooky911/call-center-management-and-workforce-forecasting/releases/latest/download/Call_Center_Complete_Project.zip)
+- [Download the complete project](https://github.com/Spooky911/call-center-management-and-workforce-forecasting/releases/latest/download/Call_Center_Management_and_Workforce_Forecasting.zip)
 - [Read the written analysis](Call%20Center%20Analysis.pdf)
 
-Power BI links require the appropriate account and access. Download **Call_Center_Complete_Project.zip** from the release assets to get the complete data and both PBIX files. GitHub's automatically generated **Source code** archives contain the repository files and do not include the large release attachment.
+Power BI links require the appropriate account and access. Download **Call_Center_Management_and_Workforce_Forecasting.zip** from the release assets to get the complete data and both PBIX files. GitHub's automatically generated **Source code** archives contain the repository files and do not include the large release attachment.
 
 ## From the starting dataset to the reporting model
 
@@ -327,7 +327,7 @@ The Excel files and PDF are directly accessible at the repository root. The comp
 
 ## Opening, refreshing and updating the tools
 
-1. Download and extract `Call_Center_Complete_Project.zip`.
+1. Download and extract `Call_Center_Management_and_Workforce_Forecasting.zip`.
 2. Open the PBIX files in Power BI Desktop. Their imported data is already included. Before refreshing, point Power Query to the extracted data files instead of the original computer's local paths.
 3. Open the workbooks in desktop Excel. The interval matrices and roster outputs are saved snapshots. Rebuild the planning outputs when demand or planning assumptions change.
 4. In the live tool, keep the internal `Required staffing` and `Schedule` copies current, select the date/interval and paste a matching live-name snapshot. Excel recalculates those comparisons.
